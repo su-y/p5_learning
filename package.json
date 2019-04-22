@@ -1,0 +1,26 @@
+{
+  "name": "p5_learning",
+  "version": "1.0.0",
+  "description": "p5 learning ground",
+  "main": "index.html",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/su-y/p5_learning.git"
+  },
+  "keywords": [
+    "p5",
+    "learn"
+  ],
+  "author": "suy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/su-y/p5_learning/issues"
+  },
+  "homepage": "https://github.com/su-y/p5_learning#readme",
+  "dependencies": {
+    "p5": "^0.7.3"
+  }
+}
